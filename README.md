@@ -12,3 +12,9 @@ donde `h = (b - a) / n`.
 La API no solo devuelve el resultado numérico final, sino también la **tabla completa de iteraciones**, mostrando para cada punto `xᵢ`: el valor evaluado `f(xᵢ)`, el coeficiente aplicado (1 para los extremos, 2 para los puntos intermedios) y el término sumado. Esto permite al usuario entender el procedimiento paso a paso, lo que la hace ideal para entornos educativos.
 
 > ⚠️ Proyecto en desarrollo activo — se agregarán más métodos numéricos próximamente.
+---
+
+# 👨‍💻 Autor
+
+Desarrollado por **Eliecer Arias**.
+
